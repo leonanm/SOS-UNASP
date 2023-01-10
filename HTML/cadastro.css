@@ -1,0 +1,15 @@
+		body {
+
+			font-family: 'Comic Sans MS';
+			width: 50%;
+			height: 1300px;
+			margin: auto;
+			padding: 20px;
+			border: 24px solid #FF4F14 ;
+			background-color: #002850 ;
+
+		}
+		div#espaco{
+			padding: 100px;
+
+		}		
